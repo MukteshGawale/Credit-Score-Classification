@@ -39,6 +39,7 @@ The data is cleaned, missing values are handled, and categorical features such a
 ## Conclusion
 This project demonstrates the effectiveness of machine learning in credit score classification. By leveraging financial data and advanced modeling techniques, the model provides a structured approach to evaluating creditworthiness. However, real-world credit scoring involves additional external factors, making continuous model improvements essential.
 
-🔹 Next Steps: Optimize feature selection, explore deep learning approaches, and integrate additional financial indicators! 🚀
+## Next Steps
+- Optimize feature selection, explore deep learning approaches, and integrate additional financial indicators! 🚀
 
 
